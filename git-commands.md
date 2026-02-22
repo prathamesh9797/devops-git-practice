@@ -74,3 +74,18 @@ git branch
 **What it does:** Switches to another branch  
 **Example:**
 git switch main
+
+## git pull
+**What it does:**Fetches changes from the remote repository and merges them into your current branch.
+**Example:**
+git pull
+
+## git push
+**What it does:**Uploads your local commits to the remote repository.
+**Example:**
+git push
+
+## git merge
+**What it does:**Combines another branch into your current branch.
+**Example:**
+git merge feature-branch
