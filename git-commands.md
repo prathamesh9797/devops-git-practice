@@ -62,3 +62,15 @@ git log
 **What it does:** Shows commit history in short form  
 **Example:**
 git log --oneline
+
+## Branching
+
+### git branch
+**What it does:** Lists or creates branches  
+**Example:**
+git branch
+
+### git switch
+**What it does:** Switches to another branch  
+**Example:**
+git switch main
