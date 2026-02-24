@@ -17,6 +17,8 @@ git config --global user.name "Your Name"
 **Example:**
 git config --global user.email "you@example.com"
 
+Changes Made to understand pull requests
+
 ### git config --global --list
 **What it does:** Shows your Git configuration  
 **Example:**
