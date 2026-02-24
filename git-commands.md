@@ -88,4 +88,4 @@ git push
 ## git merge
 **What it does:**Combines another branch into your current branch.
 **Example:**
-git merge feature-branch
+git merge feature-branch.
